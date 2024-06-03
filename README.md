@@ -204,5 +204,4 @@ ans=(int)√b-(int)√(a-1)
 ```
 每列測試資料輸出該2數相加時產生多少次進位，請參考Sample Output。注意進位超過1次時operation有加s
 ```
-<img width="250" alt="1" src="https://user-images.githubusercontent.com/74231280/170830120-5618d085-ac9d-441f-a269-8d83a8119b7d.jpg">
 
